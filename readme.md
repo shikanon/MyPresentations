@@ -4,6 +4,7 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 
 ## 目录
 -	[Pycon2016可视化爬虫技术分享](./Pycon2016/Pycon2016.slides.html)
+-	[IoT PaaS技术介绍](./cloud/IoT PaaS Introduction.ipynb)
 
 ### Jupyter 生成slide
 
