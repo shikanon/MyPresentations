@@ -1,11 +1,13 @@
-# Presentation Sildes Gallery
+﻿# Presentation Sildes Gallery
 
 This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一些平时的个人演讲稿或者心得之类的，欢迎大家关注~~
 
 ## 目录
--	[Pycon2016可视化爬虫技术分享](./Pycon2016/Pycon2016.slides.html)
+-	[Pycon2016可视化爬虫技术分享](./Pycon2016/Pycon2016.ipynb)
 -	[IoT PaaS技术介绍](./cloud/IoT PaaS Introduction.ipynb)
 -	[外部数据中心介绍](./DataCenter/DataCenter.ipynb)
+-	[深度学习](./DeepLearning)
++	[深度学习——基础篇](./DeepLearning/LearnOfDeepLearning.ipynb)
 
 ### Jupyter 生成slide
 
