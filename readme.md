@@ -1,6 +1,6 @@
 ﻿# Presentation Sildes Gallery
 
-This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一些平时的个人演讲稿或者心得之类的，欢迎大家关注~~
+This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一些平时的个人演讲稿或者心得之类的，包括深度学习、爬虫技术、PaaS平台等，欢迎大家关注~~
 
 ## 目录
 
@@ -8,10 +8,10 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 
 -	[IoT PaaS技术介绍](./cloud/IoT PaaS Introduction.ipynb)
 
--	[外部数据中心介绍](./DataCenter/DataCenter.ipynb)
+-	[外部数据中心介绍](https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DataCenter/DataCenter.ipynb)
 
 -	[深度学习](./DeepLearning)
-	+	[深度学习——基础篇](./DeepLearning/LearnOfDeepLearning.ipynb)
+	+	[深度学习——基础篇](https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb)
 
 ### Jupyter 生成slide
 
