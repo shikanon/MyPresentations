@@ -6,9 +6,11 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 
 -	[Pycon2016可视化爬虫技术分享](./Pycon2016/Pycon2016.ipynb)
 
--	[IoT PaaS技术介绍](./cloud/IoT PaaS Introduction.ipynb)
+-	[IoT PaaS技术介绍](./cloud/IoT%20PaaS%20Introduction.ipynb)
 
 -	[外部数据中心介绍](https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DataCenter/DataCenter.ipynb)
+
+-	[电信数据资料介绍](./com_data/)
 
 -	[深度学习](./DeepLearning)
 	+	[深度学习——基础篇](https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb)
