@@ -15,6 +15,9 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 -	[深度学习](./DeepLearning)
 	+	[深度学习——基础篇](https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb)
 
+-	[机器学习](./MachineLearning)
+	+	[机器学习体系概要介绍](./MachineLearning/机器学习算法讲义_体系结构介绍(第一章).pdf)
+
 ### Jupyter 生成slide
 
 jupyter-nbconvert --to slides some_name.ipynb --reveal-prefix '//cdn.bootcss.com/reveal.js/3.3.0' --post serve
