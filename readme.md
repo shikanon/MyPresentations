@@ -8,7 +8,9 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 
 -	[IoT PaaS技术介绍](./cloud/IoT%20PaaS%20Introduction.ipynb)
 
--	[外部数据中心介绍](https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DataCenter/DataCenter.ipynb)
+-	[数据中心](./DataCenter)
+	+	[外部数据中心介绍](https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DataCenter/DataCenter.ipynb)
+	+	[基于云平台的分布式高性能网络爬虫的研究与设计](https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DataCenter/基于云平台的分布式高性能网络爬虫的研究与设计.pdf)
 
 -	[电信数据资料介绍](./com_data/)
 
