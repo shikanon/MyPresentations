@@ -20,6 +20,7 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 -	[机器学习](./MachineLearning)
 	+	[机器学习体系概要介绍](./MachineLearning/机器学习算法讲义_体系结构介绍(第一章).pdf)
 	+	[wifi轨迹数据挖掘](./MachineLearning/wifi轨迹数据挖掘.pdf)
+	+	[企业用电量挖掘](./MachineLearning/aluminum_power.ipynb)
 
 ### Jupyter 生成slide
 
