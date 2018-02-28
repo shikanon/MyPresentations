@@ -17,6 +17,7 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 -	[深度学习](./DeepLearning)
 	+	[深度学习——基础篇](https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb)
 	+	[深度学习数据集](./DeepLearning/常用数据集汇总.html)
+	+	[人工智能手机](./DeepLearning/人工智能手机.pdf)
 
 -	[机器学习](./MachineLearning)
 	+	[机器学习体系概要介绍](./MachineLearning/机器学习算法讲义_体系结构介绍(第一章).pdf)
