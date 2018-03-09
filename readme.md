@@ -24,6 +24,9 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 	+	[wifi轨迹数据挖掘](./MachineLearning/wifi轨迹数据挖掘.pdf)
 	+	[企业用电量挖掘](./MachineLearning/aluminum_power.ipynb)
 
+-   [区块链技术](./BlockChain) 
+    +   [企业内部培训](./BlockChain/区块链技术内部培训.pdf) 
+
 ### Jupyter 生成slide
 
 jupyter-nbconvert --to slides some_name.ipynb --reveal-prefix '//cdn.bootcss.com/reveal.js/3.3.0' --post serve
