@@ -27,6 +27,11 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 -   [区块链技术](./BlockChain) 
     +   [企业内部培训](./BlockChain/区块链技术内部培训.pdf) 
 
+-   [RTB技术](./RTB)
+    +   [RTB技术架构基础入门](./RTB/RTB技术架构及相关算法介绍.pdf)
+    +   [腾讯广告交易平台技术接入规范.pdf](./RTB/腾讯广告交易平台技术接入规范.pdf)
+    +   [RTB资料汇总大全](https://github.com/wnzhang/rtb-papers)
+
 ### Jupyter 生成slide
 
 jupyter-nbconvert --to slides some_name.ipynb --reveal-prefix '//cdn.bootcss.com/reveal.js/3.3.0' --post serve
