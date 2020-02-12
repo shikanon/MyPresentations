@@ -32,6 +32,9 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
     +   [腾讯广告交易平台技术接入规范.pdf](./RTB/腾讯广告交易平台技术接入规范.pdf)
     +   [RTB资料汇总大全](https://github.com/wnzhang/rtb-papers)
 
+-	[云原生](./cloudnative)
+	+	[云原生在AIoT领域的应用](./cloudnative/云原生在AIoT领域的应用.md)
+
 ### Jupyter 生成slide
 
 jupyter-nbconvert --to slides some_name.ipynb --reveal-prefix '//cdn.bootcss.com/reveal.js/3.3.0' --post serve
