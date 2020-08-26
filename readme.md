@@ -35,6 +35,9 @@ This is s Presentaion Sildes Gallery, 个人演讲稿展示区，主要展示一
 -	[云原生](./cloudnative)
 	+	[云原生在AIoT领域的应用](./cloudnative/云原生在AIoT领域的应用.md)
 
+	[商业计划书](./BusinessPlans)
+	+	[3D赛道商业计划书](./BusinessPlans/3D赛道商业计划书v0.1版.pdf)
+
 ### Jupyter 生成slide
 
 jupyter-nbconvert --to slides some_name.ipynb --reveal-prefix '//cdn.bootcss.com/reveal.js/3.3.0' --post serve
